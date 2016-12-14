@@ -1,0 +1,22 @@
+body {
+	
+  background-image: url('../images/login-background.gif');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.modal-footer {
+   background-color: rgba(117, 215, 235, 1);
+   background: -webkit-linear-gradient(top, rgba(248, 248, 248, 1) 0%, rgba(117, 215, 235, 1) 100%);
+   background: linear-gradient(to bottom, rgba(248, 248, 248, 1) 0%, rgba(117, 215, 235, 1) 100%);
+   border-bottom-left-radius: 5px;
+   border-bottom-right-radius: 5px;
+}
+
+.modal-header {
+  background-color: rgba(117, 215, 235, 1);
+  background: -webkit-linear-gradient(top, rgba(248, 248, 248, 1) 0%, rgba(117, 215, 235, 1) 100%);
+  background: linear-gradient(to bottom, rgba(248, 248, 248, 1) 0%, rgba(117, 215, 235, 1) 100%);
+	border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
